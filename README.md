@@ -1,1 +1,1 @@
- Example ninja animation 3D with library jPCT for Android
+ Example ninja animation in 3D with library jPCT for Android
